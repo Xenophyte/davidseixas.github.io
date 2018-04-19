@@ -1,6 +1,8 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
+title:              Physicist and Engineer
+bio:                'This product was designed with the intent of being a versatile, high-performance worker, capable of understanding all systems involved in an engineering task down from the atomic level up to the turbopump. Not only is it capable of adapting with ease to any task but it is specially suited for systems conception and design, for innovation, having an intimate view of all the different parts, how they fit together and harness the power of physics to achieve their intended purpose.
+Though it comes with pre-installed cutting-edge software running on state-of-the-art hardware, taking it to its full potential will require practical experience which it is actively looking for. Prior tests show it has a very high specific impulse and can take extreme work loads.
+'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
