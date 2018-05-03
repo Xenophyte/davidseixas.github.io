@@ -77,8 +77,8 @@ Here analyse the effect of chamber pressure on performance and chamber temperatu
 Finally, the last parameter obtained with NASA's CEA software is the chamber-to-throat area ratio \\(A_c/A_t\\). A wider chamber results in a more complete combustion but offers a larger area to cool and therefore will result in extra weight. Here temperature and specific impulse exhibit the same behavior. Ratios greater than 7 offer little benefit, and ratios lower than 3 will result in significant performance losses.
 
 <p align="center">
-  <img width="400" src="{{ "/images/graph7.png" | absolute_url }}">
-  <img width="400" src="{{ "/images/graph8.png" | absolute_url }}">
+  <img height="300" width="480" src="{{ "/images/graph7.png" | absolute_url }}">
+  <img height="300" width="450" src="{{ "/images/graph8.png" | absolute_url }}">
 </p>
 
 ### Engine design
