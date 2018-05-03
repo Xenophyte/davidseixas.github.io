@@ -110,4 +110,4 @@ Graphically, this means
   <img height="300" width="450" src="{{ "/images/graph11.png" | absolute_url }}">
 </p>
 
-For our desired burn time of 20 sec need 100 ml of propellant for every kilogram of dry vehicle mass. For example for a vehicle mass of 50 kg we need 4.9 litres or 20 kg of propellant.BBB
+For our desired burn time of 20 sec need 100 ml of propellant for every kilogram of dry vehicle mass. For example for a vehicle mass of 50 kg we need 4.9 litres or 20 kg of propellant.CCC
