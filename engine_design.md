@@ -99,4 +99,15 @@ We will temporarily pick \\(P_c =\\) 250 psi, \\(r =\\) 2.43 and \\(A_c/A_t\\) =
 
 #### Thrust and mass flows
 
-We now know that our specific impulse is of about 261.72 seconds or equivalently an exit velocity of 2567.5 m/s.
+We now know that our specific impulse is predicted to be 261.72 seconds or equivalently an exit velocity of 2567.5 m/s. For a hovering craft at constant altitude and a specific impulse of 260 seconds, we whatever
+
+$$\frac{t_\text{burn}}{I_\text{sp}} = 1-e^{-t_\text{burn}/I_\text{sp}}$$
+
+Graphically, this means
+
+<p align="center">
+  <img height="300" width="420" src="{{ "/images/graph10.png" | absolute_url }}">
+  <img height="300" width="450" src="{{ "/images/graph11.png" | absolute_url }}">
+</p>
+
+For our desired burn time of 20 sec need 100 ml of propellant for every kilogram of dry vehicle mass. For example for a vehicle mass of 50 kg we need 4.9 litres or 20 kg of propellant.
