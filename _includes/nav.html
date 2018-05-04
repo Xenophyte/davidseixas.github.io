@@ -1,7 +1,9 @@
 <ul class="links">
-  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Theme Home</a></li>
-  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
-  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
-  <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/elements/" | absolute_url }}">Elements Reference</a></li>
-  <li class="{% if page.url contains '/engine design/' %} active {% endif %}"><a href="{{ "/engine_design/" | absolute_url }}">Engine Design</a></li>
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">About me</a></li>
+  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">Resume</a></li>
+  <li class="{% if page.url contains '/machine_learning/' %} active {% endif %}"><a href="{{ "/machine_learning/" | absolute_url }}">Machine Learning</a></li>
+  <li class="{% if page.url contains '/astroparticlephysics/' %} active {% endif %}"><a href="{{ "/astroparticlephysics/" | absolute_url }}">Physics</a></li>
+  <!--<li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
+  <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/elements/" | absolute_url }}">Elements Reference</a></li>-->
+  <li class="{% if page.url contains '/engine_design/' %} active {% endif %}"><a href="{{ "/engine_design/" | absolute_url }}">Space propulsion</a></li>
 </ul>
